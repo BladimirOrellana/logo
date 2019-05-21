@@ -1,2 +1,2 @@
 # My logo
-This is Bladimir Orellana logo.
+This is Bladimir Orellana logo
